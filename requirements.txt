@@ -17,3 +17,5 @@ langchain_huggingface
 google-search-results
 faiss-cpu
 sentence_transformers
+langchain_google_genai
+langchain_groq
